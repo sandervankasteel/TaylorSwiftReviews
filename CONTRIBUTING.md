@@ -22,13 +22,13 @@ This will be a simple guide on how to contribute to this repository (TaylorSwift
 **- General contributing**
 All contributing to this repository should be done via `Pull Requests`. In case of external contributors, they are required to make a fork of this repository, make his/her changes and then create a `Pull Request` when he/she is satisfied about the changes.
 
-**- File structure **
+**- File structure**
 All contributor (including the owner of the repository) are bound to the current file structure; `<github username>/<album name>/<track number>-<song name>` within the directory `reviews`. Track numbers should including a trailing 0, if applicable. Any spaces in the name of an album or track name, should be replaced with `_` (underscore) and all names should be in lowercase. 
 
 *Example:*
 `reviews/sandervankasteel/speak_now/02-sparks_fly.md`
 
-**- Grading **
+**- Grading**
 Grading should be on a scale from 1 through 100. Where 1 is the lowest score possible and 100 the highest score possible. 
 
 **- Document structure of song reviews**

@@ -20,15 +20,18 @@ This will be a simple guide on how to contribute to this repository (TaylorSwift
 	Markdown is a lightweight markup language. More info: https://en.wikipedia.org/wiki/Markdown
 	
 **- General contributing**
+
 All contributing to this repository should be done via `Pull Requests`. In case of external contributors, they are required to make a fork of this repository, make his/her changes and then create a `Pull Request` when he/she is satisfied about the changes.
 
 **- File structure**
+
 All contributor (including the owner of the repository) are bound to the current file structure; `<github username>/<album name>/<track number>-<song name>` within the directory `reviews`. Track numbers should including a trailing 0, if applicable. Any spaces in the name of an album or track name, should be replaced with `_` (underscore) and all names should be in lowercase. 
 
 *Example:*
 `reviews/sandervankasteel/speak_now/02-sparks_fly.md`
 
 **- Grading**
+
 Grading should be on a scale from 1 through 100. Where 1 is the lowest score possible and 100 the highest score possible. 
 
 **- Document structure of song reviews**
@@ -65,13 +68,16 @@ Sources:
 
 ```
 
-**- Quality of the reviews **
+**- Quality of the reviews**
+
 The repository owner will not make any assumption and/or judgment on the perceived quality of the contributed reviews. However, any review placement pull request made to this repository should at least have a lower limit of 20 words. This is to prevent the submission of reviews where the only review text is `Awesome song. 10/10 would listen again` and such (arguably) low quality reviews. Discrimination, hate speech and/or any other forms of harassment are not allowed in the reviews.
 
 **- Error reporting**
+
 Any errors found by readers of the review, should report those errors in the form Github Issues. Errors including but not limited to, typos, grammatical errors and/or errors in dates. Github Issues are not the place for creative differences!
 
 **- UNIT testing**
+
 TODO
 
 (c) 2017 Sander van Kasteel

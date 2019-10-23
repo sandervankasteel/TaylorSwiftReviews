@@ -66,7 +66,7 @@ associated with blue. Sure, one can feel blue, but I personally miss the associa
 missing someone may make the day appear dull and dark grey, but that fails to make me associate missing
 someone with grey. Would missing him be white, her relationship would have had the same colors as the Dutch flag!
 
-I think the melody is rather dull. Sure, there changes in tempo and atmosphere, but it 
+I think the melody is rather dull. Sure, there are changes in tempo and atmosphere, but it 
 feels too calculated, too slick, too uninspired.
 
 I think that love comes from the heart and not from
